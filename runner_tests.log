@@ -1,0 +1,4 @@
+WARNING: Ошибка: Имя не может быть пустым
+INFO: "test_run_invalid_name" выполнен успешно
+INFO: Финишеры: {1: <runner_and_tournament.Runner object at 0x000002493C5D5DC0>, 2: <runner_and_tournament.Runner object at 0x000002493C5D5D90>}
+INFO: "test_walk_negative_speed" выполнен успешно
